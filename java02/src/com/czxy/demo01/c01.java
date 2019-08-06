@@ -1,7 +1,7 @@
 package com.czxy.demo01;
 
-public class c01 {
 
+public class c01 {
 
     public static void main(String[] args) {
 
@@ -9,7 +9,6 @@ public class c01 {
         System.out.println("hello ");
         System.out.println("hello ");
         System.out.println("hello ");
-
         System.out.println("hahahahaaa");
 
     }
