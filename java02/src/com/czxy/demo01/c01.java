@@ -11,6 +11,7 @@ public class c01 {
 
         System.out.println("hahahahahah");
         System.out.println("hahahah");
+        System.out.println("hahahah");
 
     }
 }
