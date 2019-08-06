@@ -8,5 +8,8 @@ public class c01 {
         System.out.println("hahaha");
 
         System.out.println("hahah");
+
+        System.out.println("hahahah");
+
     }
 }
